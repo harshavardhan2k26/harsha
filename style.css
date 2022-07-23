@@ -1,0 +1,28 @@
+h1 {
+    text-align: center;
+    color: #d94f29;
+}
+h3 {
+    text-align: center;
+    color:#d94f29 ;
+    text-decoration: underline;
+}
+p {
+    
+    text-align: center;
+}
+ul {
+    margin-left: 45%;
+}
+.li {
+    margin-left: 48%;
+}
+.tw {
+    margin-left: 1%;
+}
+.image {
+    height: 20em;
+    width: 15em;
+    margin-left: 40%;
+    border-radius: 10px;
+}
