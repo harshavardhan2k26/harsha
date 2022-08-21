@@ -2,6 +2,9 @@ h1 {
     text-align: center;
     color: #d94f29;
 }
+hr {
+    margin: 0 30%;
+}
 h3 {
     text-align: center;
     color:#d94f29 ;
@@ -22,7 +25,22 @@ ul {
 }
 .image {
     height: 20em;
-    width: 15em;
-    margin-left: 40%;
+   
+ 
     border-radius: 10px;
+}
+.div-image {
+   max-width: 18vw;
+    margin: auto;
+}
+@media only screen and (max-width:600px) {
+   .div-image{
+    max-width: 90%;
+    margin-left:22% ;
+   }
+
+    
+
+
+
 }
